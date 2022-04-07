@@ -1,0 +1,34 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Yosemite",
+        "description": "Yosemite National Park is in California’s Sierra Nevada mountains. It’s famed for its giant, ancient sequoia trees, and for Tunnel View, the iconic vista of towering Bridalveil Fall and the granite cliffs of El Capitan and Half Dome.",
+        "imageName": "yosemite"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Arches",
+        "description": "Arches National Park lies north of Moab in the state of Utah. Bordered by the Colorado River in the southeast, it’s known as the site of more than 2,000 natural sandstone arches, such as the massive, red-hued Delicate Arch in the east.",
+        "imageName": "arches"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Bryce Canyon",
+        "description": "Bryce Canyon National Park, a sprawling reserve in southern Utah, is known for crimson-colored hoodoos, which are spire-shaped rock formations. The park’s main road leads past the expansive Bryce Amphitheater, a hoodoo-filled depression lying below the Rim Trail hiking path.",
+        "imageName": "bryce"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Everglades",
+        "description": "Everglades National Park is a 1.5-million-acre wetlands preserve on the southern tip of the U.S. state of Florida. Often compared to a grassy, slow-moving river, the Everglades is made up of coastal mangroves, sawgrass marshes and pine flatwoods that are home to hundreds of animal species.",
+        "imageName": "everglades"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Big Bend",
+        "description": "Big Bend National Park is in southwest Texas and includes the entire Chisos mountain range and a large swath of the Chihuahuan Desert. The Ross Maxwell Scenic Drive leads to the ruins of Sam Nail Ranch, now home to desert wildlife.",
+        "imageName": "bigbend"
+    }
+    
+]
+
